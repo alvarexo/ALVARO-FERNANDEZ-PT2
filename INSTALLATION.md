@@ -1,4 +1,4 @@
-#INSTALACIÓN OWNCLOUD ISARDVDI
+# INSTALACIÓN OWNCLOUD ISARDVDI
 
 ![imatge](https://github.com/user-attachments/assets/c722cb22-5ab8-44a0-9c15-5d3ee549be46)
 
