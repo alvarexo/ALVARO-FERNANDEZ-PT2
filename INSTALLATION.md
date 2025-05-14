@@ -50,4 +50,4 @@ Y ahora por ultimo de instalaciones, reiniciaremos el servidor de apache con el 
 
 Con esto ya reiniciaríamos el servidor.
 
-## 
+## Configuración de base de datos
