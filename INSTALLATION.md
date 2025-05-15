@@ -133,12 +133,48 @@ Cuando entramos al link, tendremos que instalar versiones mas nuevas de libreria
 
 ![imatge](https://github.com/user-attachments/assets/8aeabd4a-1886-4f0a-afb0-4f96ef2014a1)
 
+Primero instalaremos los requisitos previos del PPA
+
 ![imatge](https://github.com/user-attachments/assets/79a4582a-45de-4082-aaa8-1da265aa9082)
+
+Seguidamente instalaremos todas las herramientas que nos hagan falta para la instalación
 
 ![imatge](https://github.com/user-attachments/assets/4d3d6c23-14d4-4e9a-bdab-97328adb4943)
 
+Ahora actualizamos los repos del sistema para acabar
+
 ![imatge](https://github.com/user-attachments/assets/c22c9fdf-eadd-487b-90f5-565587ba63a6)
+
+Y ahora ya empezamosa a instalar las nuevas librerias PHP mas nuevas, para que podamos entrar en owncloud.
 
 ![imatge](https://github.com/user-attachments/assets/c55b8c61-2d08-4026-8168-f307ae80b227)
 
 ![imatge](https://github.com/user-attachments/assets/2e180def-3aa8-4050-915c-4c3ca7700a86)
+
+![image](https://github.com/user-attachments/assets/13f546cb-2a6d-4a95-8c7b-2c6881502061)
+
+El siguiente paso y muy importante, es que vamos a elegir la version PHP, para que sea compatible y nos deje entrar a Owncloud.
+
+![image](https://github.com/user-attachments/assets/7a294e57-171a-4d31-9f94-526d7d5b0222)
+
+Y ahora tocara elegir
+
+![image](https://github.com/user-attachments/assets/a7e9d56f-7895-45d9-a134-ac24d61c0565)
+
+Como pone en la imagen , elegiremos la segunda opción.
+
+Y ahora si que si, para finalizar la instalación, tendremos que activar los modulos del servidor apache, y reiniciarlo, y lo haremos de la siguiente manera:
+
+![image](https://github.com/user-attachments/assets/ddb9e118-c51f-4978-b090-84124d100db1)
+
+Y por ultimo reiniciamos APACHE.
+
+![image](https://github.com/user-attachments/assets/0007c503-6978-4eaf-b196-b4e0def64f34)
+
+Ahora volvemos a probar a entrar en el http://localhost en el navegador, para poder empezar la configuración.
+
+![image](https://github.com/user-attachments/assets/0134898b-f9bb-46a2-a3e7-28c99b6e703e)
+
+![image](https://github.com/user-attachments/assets/0cfdce44-19d3-4fb8-8f74-e6daf40e9fb4)
+
+
