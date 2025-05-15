@@ -81,6 +81,64 @@ ahora lo que vamos a hacer será probar la conexión a la base de datos.
 ![imatge](https://github.com/user-attachments/assets/2b262337-b7a6-461e-afda-55f1e9716cf8)
 
 
+
 ### Descargamos archivo .zip del servidor Owncloud
 
 https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
+
+
+![imatge](https://github.com/user-attachments/assets/d13fa750-23ec-45ba-990a-bd4cdb8b4cf1)
+
+Cuando ya hemos instalado el archivo vamos a tener que hacer lo siguiente:
+
+Ahora entramos al directorio de la siguiente manera
+
+![imatge](https://github.com/user-attachments/assets/3bbdd08e-7ad0-497d-855c-3648102ac537)
+
+Modifica el nombre del archivo como quieras, en este caso yo le he llamado appweb.zip
+
+![imatge](https://github.com/user-attachments/assets/0f87ed92-ddfb-4e2a-9ac4-f45df820b12b)
+
+Ahora vamos a descomprimir el archivo que hemos descrgado "appweb"
+
+![imatge](https://github.com/user-attachments/assets/bf64542e-fc2c-4421-aa44-186119733e39)
+
+Copiamos los archivos a la carpeta /var/www/html y modificamos el nombre del archivo por el que hemos puesto, y lo descomprimimos 
+
+![imatge](https://github.com/user-attachments/assets/c5a96476-6c56-40a8-b2ec-031a1cd29615)
+
+Ahora eliminamos la carpeta que hemos creado cuanod hemos descomprimido el archivo
+
+![imatge](https://github.com/user-attachments/assets/1f2e2de8-6f5d-46a3-96de-27a80cda7eef)
+
+por último eliminamos el archivo index.html del servidor de apache.
+
+![imatge](https://github.com/user-attachments/assets/d84b89c9-6511-4f7e-b11c-1c537c00d012)
+
+Ahora vamos a proceder a añadir permisos.
+
+Estos son todos los permisos que vamos a añadir.
+
+![imatge](https://github.com/user-attachments/assets/a2d47143-4413-4dc3-a958-b434c4cc0fe0)
+
+Por último, vamos a ir al navegador para ver que todo funcione correctamente
+
+http://localhost entramos en este link y entramos con nuestros datos 
+
+usuari: usuario
+contrasenya: password
+base de dades: bbdd
+
+Cuando entramos al link, tendremos que instalar versiones mas nuevas de librerias PHP, asi que vamos a hacerlo.
+
+![imatge](https://github.com/user-attachments/assets/8aeabd4a-1886-4f0a-afb0-4f96ef2014a1)
+
+![imatge](https://github.com/user-attachments/assets/79a4582a-45de-4082-aaa8-1da265aa9082)
+
+![imatge](https://github.com/user-attachments/assets/4d3d6c23-14d4-4e9a-bdab-97328adb4943)
+
+![imatge](https://github.com/user-attachments/assets/c22c9fdf-eadd-487b-90f5-565587ba63a6)
+
+![imatge](https://github.com/user-attachments/assets/c55b8c61-2d08-4026-8168-f307ae80b227)
+
+![imatge](https://github.com/user-attachments/assets/2e180def-3aa8-4050-915c-4c3ca7700a86)
