@@ -42,6 +42,8 @@ Procedemos a instalar las librerias PHP para las aplicaciones.
 
 ![imatge](https://github.com/user-attachments/assets/06d71713-1941-4c7e-be3d-12255d7415e4)
 
+![imatge](https://github.com/user-attachments/assets/2e403382-f612-4069-8d98-c4da5ac71179)
+
 Ya estaría, este es el comando que tenemos que utilizar para instalar las librerias PHP.
 
 Y ahora por ultimo de instalaciones, reiniciaremos el servidor de apache con el siguiente comando:
@@ -51,3 +53,34 @@ Y ahora por ultimo de instalaciones, reiniciaremos el servidor de apache con el 
 Con esto ya reiniciaríamos el servidor.
 
 ## Configuración de base de datos
+
+Lo primero que haremos para configurar la base de datos, será acceder a la propia consola de ella.
+
+![imatge](https://github.com/user-attachments/assets/236c8786-e101-45f4-b54b-3abda9580340)
+
+ahora ya estamos dentro de nuestra consola y lo que haremos a continuación es crear la base de datos en el mysql.
+
+![imatge](https://github.com/user-attachments/assets/de24b1d9-2f39-4b6e-87a6-e2239f7fa3bd)
+
+Ahora crearemos nuestro usuario que tendra su propia contrseña y su nombre de usuario para la base de datos, que es lo que sale indicado en azul.
+
+![imatge](https://github.com/user-attachments/assets/aac2bf23-b1ec-440e-b2ca-858bf89da891)
+
+Por último dentro de la base de datos, lo que hacemos es darle permisos/privilegios al usuario.
+
+![imatge](https://github.com/user-attachments/assets/f10a0ddd-3825-4068-83f8-cceafb08bce2)
+
+Y para finalizar la configuración de la base de datos, salimos simplemente haciendo lo siguiente:
+
+![imatge](https://github.com/user-attachments/assets/99ec2af3-7ac5-4791-ab9a-55dde1dcc81e)
+
+ahora lo que vamos a hacer será probar la conexión a la base de datos.
+
+![imatge](https://github.com/user-attachments/assets/719475c1-cf07-4da1-a3fe-5bf844a2c310)
+
+![imatge](https://github.com/user-attachments/assets/2b262337-b7a6-461e-afda-55f1e9716cf8)
+
+
+### Descargamos archivo .zip del servidor Owncloud
+
+https://download.owncloud.com/server/stable/owncloud-complete-20240724.zip
