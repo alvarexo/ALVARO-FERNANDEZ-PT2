@@ -2,5 +2,5 @@
 
 [Manual de instalación](INSTALLATION.md)
 
-[Manual de instalación](CONFIGURATION.md)
+[Manual de configuración](CONFIGURATION.md)
 
